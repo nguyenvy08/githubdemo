@@ -1,2 +1,0 @@
-# githubdemo
-pham huy hoang
